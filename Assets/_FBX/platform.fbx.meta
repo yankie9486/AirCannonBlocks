@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 268f79fa20aab0d4da708bac914c170a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Wall1
+    100002: Floor
+    100004: BottomStage
+    100006: Wall
+    100008: //RootNode
+    100010: TopStage
+    100012: BottomStage 1
+    100014: CatchBalls
+    100016: group1
+    100018: group2
+    100020: group3
+    100022: Start_FallingObj_0
+    100024: Start_FallingObj_0 1
+    100026: Start_FallingObj_0 2
+    100028: Start_FallingObj_1
+    100030: Start_FallingObj_1 1
+    100032: Start_FallingObj_1 2
+    100034: Start_FallingObj_2
+    100036: Start_FallingObj_2 1
+    100038: Start_FallingObj_2 2
+    100040: Start_FallingObj_3
+    100042: Start_FallingObj_3 1
+    100044: Start_FallingObj_3 2
+    100046: WallC_UCX
+    100048: WallC_UCX2
+    100050: WallC_UCX3
+    100052: polySurface1
+    100054: polySurface10
+    100056: polySurface5
+    100058: polySurface6
+    100060: Roof_Base
+    100062: RoofColumn_1
+    100064: RoofColumn_2
+    100066: RoofColumn_3
+    100068: RoofColumn_4
+    100070: transform4
+    100072: transform5
+    400000: Wall1
+    400002: Floor
+    400004: BottomStage
+    400006: Wall
+    400008: //RootNode
+    400010: TopStage
+    400012: BottomStage 1
+    400014: CatchBalls
+    400016: group1
+    400018: group2
+    400020: group3
+    400022: Start_FallingObj_0
+    400024: Start_FallingObj_0 1
+    400026: Start_FallingObj_0 2
+    400028: Start_FallingObj_1
+    400030: Start_FallingObj_1 1
+    400032: Start_FallingObj_1 2
+    400034: Start_FallingObj_2
+    400036: Start_FallingObj_2 1
+    400038: Start_FallingObj_2 2
+    400040: Start_FallingObj_3
+    400042: Start_FallingObj_3 1
+    400044: Start_FallingObj_3 2
+    400046: WallC_UCX
+    400048: WallC_UCX2
+    400050: WallC_UCX3
+    400052: polySurface1
+    400054: polySurface10
+    400056: polySurface5
+    400058: polySurface6
+    400060: Roof_Base
+    400062: RoofColumn_1
+    400064: RoofColumn_2
+    400066: RoofColumn_3
+    400068: RoofColumn_4
+    400070: transform4
+    400072: transform5
+    2300000: BottomStage
+    2300002: Floor
+    2300004: TopStage
+    2300006: Wall
+    2300008: BottomStage 1
+    2300010: CatchBalls
+    2300012: Start_FallingObj_0
+    2300014: Start_FallingObj_0 1
+    2300016: Start_FallingObj_0 2
+    2300018: Start_FallingObj_1
+    2300020: Start_FallingObj_1 1
+    2300022: Start_FallingObj_1 2
+    2300024: Start_FallingObj_2
+    2300026: Start_FallingObj_2 1
+    2300028: Start_FallingObj_2 2
+    2300030: Start_FallingObj_3
+    2300032: Start_FallingObj_3 1
+    2300034: Start_FallingObj_3 2
+    2300036: WallC_UCX
+    2300038: WallC_UCX2
+    2300040: WallC_UCX3
+    2300042: Roof_Base
+    2300044: RoofColumn_1
+    2300046: RoofColumn_2
+    2300048: RoofColumn_3
+    2300050: RoofColumn_4
+    3300000: BottomStage
+    3300002: Floor
+    3300004: TopStage
+    3300006: Wall
+    3300008: BottomStage 1
+    3300010: CatchBalls
+    3300012: Start_FallingObj_0
+    3300014: Start_FallingObj_0 1
+    3300016: Start_FallingObj_0 2
+    3300018: Start_FallingObj_1
+    3300020: Start_FallingObj_1 1
+    3300022: Start_FallingObj_1 2
+    3300024: Start_FallingObj_2
+    3300026: Start_FallingObj_2 1
+    3300028: Start_FallingObj_2 2
+    3300030: Start_FallingObj_3
+    3300032: Start_FallingObj_3 1
+    3300034: Start_FallingObj_3 2
+    3300036: WallC_UCX
+    3300038: WallC_UCX2
+    3300040: WallC_UCX3
+    3300042: Roof_Base
+    3300044: RoofColumn_1
+    3300046: RoofColumn_2
+    3300048: RoofColumn_3
+    3300050: RoofColumn_4
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pCube3
+    4300006: pCube4
+    4300008: pCylinder1
+    4300010: Wall
+    4300012: Floor
+    4300014: wall
+    4300016: BottomStage
+    4300018: TopStage
+    4300020: Box_Collision_1
+    4300022: Box_Collision_0
+    4300024: Box_Collision_2
+    4300026: Box_Collision_3
+    4300028: Box_Collision_4
+    4300030: Start_FallingObj_0
+    4300032: Start_FallingObj_1
+    4300034: Start_FallingObj_2
+    4300036: Start_FallingObj_3
+    4300038: Start_FallingObj_0
+    4300040: Start_FallingObj_1
+    4300042: Start_FallingObj_2
+    4300044: Start_FallingObj_3
+    4300046: Start_FallingObj_0
+    4300048: Start_FallingObj_1
+    4300050: Start_FallingObj_2
+    4300052: Start_FallingObj_3
+    4300054: polySurface13
+    4300056: Wall1
+    4300058: CatchBalls
+    4300060: WallC_UCX2
+    4300062: WallC_UCX
+    4300064: WallC_UCX3
+    4300066: Roof_Base
+    4300068: RoofColumn_1
+    4300070: RoofColumn_2
+    4300072: RoofColumn_3
+    4300074: RoofColumn_4
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
